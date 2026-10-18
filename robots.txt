@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moasoh11.github.io/fernlight/sitemap.xml
